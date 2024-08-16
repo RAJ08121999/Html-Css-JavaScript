@@ -59,3 +59,5 @@ body{
 .container .clip:hover {
     clip-path: polygon(0 0 , 100% 0, 100% 100%, 0% 100% );
 }
+
+/* Clip path generator has been used to clip the images */
